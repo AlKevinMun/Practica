@@ -12,24 +12,38 @@ background-color: #457879
   margin-left: 12em;
 }
 .Conversación {
-  margin-left: 4em;
-  margin-right: 4em;
+  margin-left: 0em;
+  margin-right: 0em;
   background-color: #233c42;
   color: white;
   border: solid;
   border-radius: 1em;
-  padding: 0px;
+  padding-left: 1em;
+  padding-top:
 }
-.Fondo_Conversación{
+.Fondos_Conversación{
   background-color: #eceadc;
-  margin: 5px;
+  margin-left: 2em;
+  margin-right: 2em;
+  margin-top: 1em;
+  padding-bottom: 2em;
+  
 }
 .Emissor{
   background-color: #fcfefc;
-  margin-left: 5em;
-  margin-right: 8em;
+  margin-left: 1em;
+  margin-right: 9em;
   border-radius: 1em;
   border: solid;
   border-width: 1px;
-  padding: none;
+  padding-left: 1em;
+}
+.Receptor{
+  background-color: #9ad147;
+  border-radius: 1em;
+  border: solid;
+  border-width: 1px;
+  margin-right: 1em;
+  margin-left: 8em;
+
 }
