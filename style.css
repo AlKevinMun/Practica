@@ -8,9 +8,22 @@ background-color: #457879
 
 
 }
-#Titulo {
-  margin-left: 12em;
+.Titulo1 {
+  margin-left: 0em;
+  margin-right: 0em;
+  color: #9ad147;
+  background-color: #fcfefc;
+  font-family: fantasy;
+  font-size: 2em;
 }
+.Titulo2 {
+  margin-left: 0em;
+  margin-right: 10em;
+  color: #fcfefc;
+  background-color: #9ad147;
+  font-size: 2em;
+  }
+
 .Conversación {
   margin-left: 0em;
   margin-right: 0em;
