@@ -3,27 +3,21 @@ body{
 background-color: #457879;
 margin-left: 3em;
 margin-right: 3em;
-
 }
 .Fondo{
-  background-color: white
-
+  background-color: white;
 
 }
 .Titulo1 {
-  margin-left: 0em;
-  margin-right: 0em;
   color: #9ad147;
-  background-color: #fcfefc;
-  font-family: fantasy;
+  font-weight: bold;
   font-size: 2em;
 }
 .Titulo2 {
-  margin-left: 0em;
-  margin-right: 10em;
   color: #fcfefc;
   background-color: #9ad147;
   font-size: 2em;
+  font-weight: bold;
   }
 
 .Titulo_Conversación {
@@ -52,6 +46,7 @@ margin-right: 3em;
   border: thin solid;
   border-width: 1px;
   padding-left: 1em;
+  width: 70%;
 }
 .Receptor{
   background-color: #9ad147;
